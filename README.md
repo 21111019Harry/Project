@@ -1,4 +1,4 @@
-# Project
+# Blood Bank Management
 
  . The objective of this system is for the blood bank management. Donor registration, Managing the donor database, recording their physical and medical statistics.
   
